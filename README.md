@@ -13,7 +13,15 @@ No diretorio raiz, por favor execute o comando:
 ```bash
 npm run start
 ```
+
+##Body
 ```
+{
+    "a": Number,
+    "b": Number
+}
+```
+
 
 ## License
 [MIT](https://github.com/ThiagoSouzaBRA/API_Calculadora/blob/main/LICENSE)
