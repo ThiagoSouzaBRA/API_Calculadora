@@ -3,7 +3,7 @@
 Bem vindo ao simples serviço calculadora API, criado por Thiago Souza.
 (Welcome to the simple API calculator Service, created by Thiago Souza.)
 
-<img src="./preview.gif"/>
+<img src="./_preview.gif"/>
 
 ## Execute
 
