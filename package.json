@@ -1,0 +1,25 @@
+{
+  "name": "API_Calculadora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon service.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoSouzaBRA/API_Calculadora.git"
+  },
+  "keywords": [],
+  "author": "Thiago Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoSouzaBRA/API_Calculadora/issues"
+  },
+  "homepage": "https://github.com/ThiagoSouzaBRA/API_Calculadora#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
