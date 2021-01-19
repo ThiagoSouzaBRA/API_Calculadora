@@ -1,4 +1,4 @@
-# Google Bot
+# API Calculadora
 
 Bem vindo ao simples serviço calculadora API, criado por Thiago Souza.
 (Welcome to the simple API calculator Service, created by Thiago Souza.)
